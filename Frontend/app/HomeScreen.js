@@ -142,14 +142,14 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-start',
   },
   topSection: {
-    backgroundColor: '#e4f7f3',
+    backgroundColor: '#f1fef4',
     alignItems: 'center',
     paddingTop: 40,
     paddingBottom: 25,
   },
   logo: {
-    width: 120,
-    height: 120,
+    width: 200,
+    height: 200,
     resizeMode: 'contain',
     marginBottom: 12,
   },

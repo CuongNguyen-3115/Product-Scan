@@ -1,0 +1,46 @@
+{
+  "chat_id": "chat-1772356890196",
+  "updated_at": "2026-03-01T09:23:19.807182",
+  "history": [
+    {
+      "role": "user",
+      "text": "Xem hồ sơ",
+      "ts": "2026-03-01T09:21:49.034327"
+    },
+    {
+      "role": "assistant",
+      "text": "Hồ sơ sức khỏe của bạn\n- Cập nhật: 2026-03-01T09:14:58.053Z\n1. Thông tin cơ bản:\n   - Tuổi: 22\n   - Giới tính: Nam\n   - Cân nặng: 65 kg\n   - Chiều cao: 165 cm\n   - Mức vận động: Vận động nhiều (6–7 ngày/tuần)\n2. Tình trạng/bệnh nền:\n   - Huyết áp cao, Hội chứng ruột kích thích (IBS), Rối loạn mỡ máu, Bệnh gan, Viêm họng\n3. Dị ứng:\n   - Đậu phộng, Lactose, Tôm cua, Phô mai\n4. Mục tiêu sức khỏe:\n   - Giảm cân, Tăng năng lượng, Tăng cơ bắp, Ngủ ngon hơn, Cải thiện viêm họng",
+      "ts": "2026-03-01T09:21:49.038771"
+    },
+    {
+      "role": "user",
+      "text": "Xem thành phần",
+      "ts": "2026-03-01T09:22:01.841145"
+    },
+    {
+      "role": "assistant",
+      "text": "Thành phần (từ nhãn)\n- Nguyên văn: BỘT MÌ, ĐƯỜNG, MẠCH NHÀ GLUCOSE, SHORTENING THỰC VẬT (CÓ CHỨA CHẤT NHŨ HÓA (471)), CHẤT BÉO THỰC VẬT (CÓ CHỨA CHẤT NHŨ HÓA (492, 322(i))), BỘT CACAO (2,8%), SỮA BỘT NGUYÊN KEM, TRỨNG, CHẤT TẠO XỐP (500(ii), 503(ii)), ĐƯỜNG DEXTROSE, GELATIN, MUỐI, HỖN HỢP BỘT CACAO VÀ BƠ CACAO (0,2%), CHẤT ỔN ĐỊNH (1442, 415), CHẤT ĐIỀU CHỈNH ĐỘ ACID (341(i)), HƯƠNG LIỆU TỔNG HỢP (VANI), CHẤT NHŨ HÓA (322(i), 476), MUỐI I-ỐT, PROTEIN SỮA\n\nDanh sách parse:\n- Bột mì — [ALLERGEN]\n- Đường\n- Mạch nha glucose\n- Shortening thực vật — có chất nhũ hoá (471)\n- Chất béo thực vật — có chứa chất nhũ hoá (492, 322(i))\n- Bột cacao (2,8%%)\n- Sữa bột nguyên kem — [ALLERGEN]\n- Trứng — [ALLERGEN]\n- Chất tạo xốp — (500(ii), 503(ii))\n- Đường dextrose\n- Gelatin\n- Muối\n- Hỗn hợp bột cacao và bơ cacao (0,2%%)\n- Chất ổn định — (1442, 415)\n- Chất điều chỉnh độ acid — (341(i))\n- Hương liệu tổng hợp (vani)\n- Chất nhũ hoá — (322(i), 476)\n- Muối i-ốt\n- Protein sữa — [ALLERGEN]",
+      "ts": "2026-03-01T09:22:01.841558"
+    },
+    {
+      "role": "user",
+      "text": "Sản phẩm thay thế",
+      "ts": "2026-03-01T09:22:15.381309"
+    },
+    {
+      "role": "assistant",
+      "text": "**Trả lời nhanh**: Dưới đây là các sản phẩm thay thế xếp từ phù hợp nhất trở xuống.\n- Nhóm danh mục: milk\n\n1. **Yến mạch ăn liền** — quaker\n   - Điểm sức khỏe (cá nhân hoá): **8.0 / 8.0** — Phù hợp\n   - Nutri-Score (tham khảo): A (điểm -1)\n   - Dinh dưỡng/100g: đường 1.14 g; natri 3 mg; bão hoà 1.71 g; protein 12.3 g; 369.0 kcal\n   - Lý do: Đường thấp (≤5g/100g), Natri thấp (≤120mg/100g), Protein cao (≥10g/100g), Chất xơ đáng kể (≥5g/100g)\n   - Có thể tìm tại (Hà Nội): —\n   \n   ![](https://images.openfoodfacts.org/images/products/955/617/480/2113/front_ja.4.400.jpg)\n2. **Đậu Whole Green Lentils** — Mc Kenzie’s\n   - Điểm sức khỏe (cá nhân hoá): **8.0 / 8.0** — Phù hợp\n   - Nutri-Score (tham khảo): A (điểm -6)\n   - Dinh dưỡng/100g: đường 1.3 g; natri 5 mg; bão hoà 1.0 g; protein 27.6 g; - kcal\n   - Lý do: Đường thấp (≤5g/100g), Natri thấp (≤120mg/100g), Protein cao (≥10g/100g), Chất xơ đáng kể (≥5g/100g)\n   - Có thể tìm tại (Hà Nội): —\n   \n   ![](https://images.openfoodfacts.org/images/products/931/006/112/1806/front_fr.3.400.jpg)\n3. **Đậu hữu cơ** — Lotus\n   - Điểm sức khỏe (cá nhân hoá): **6.0 / 8.0** — Phù hợp\n   - Nutri-Score (tham khảo): B (điểm 2)\n   - Dinh dưỡng/100g: đường 6.0 g; natri 4 mg; bão hoà 2.5 g; protein 34.0 g; - kcal\n   - Lý do: Đường trung bình, Natri thấp (≤120mg/100g), Protein cao (≥10g/100g)\n   - Có thể tìm tại (Hà Nội): —\n   \n   ![](https://images.openfoodfacts.org/images/products/931/712/763/8254/front_en.3.400.jpg)\n4. **Bánh Ăn Dặm Nestle Gerber Puffs Mỹ Hình Ngôi Sao** — Gerber\n   - Điểm sức khỏe (cá nhân hoá): **5.0 / 8.0** — Phù hợp\n   - Nutri-Score (tham khảo): D (điểm 13)\n   - Dinh dưỡng/100g: đường 0.0 g; natri 0 mg; bão hoà 0.0 g; protein 0.0 g; 5100.0 kcal\n   - Lý do: Đường thấp (≤5g/100g), Natri thấp (≤120mg/100g)\n   - Có thể tìm tại (Hà Nội): —\n   \n   ![](https://images.openfoodfacts.org/images/products/001/500/004/5203/front_en.62.400.jpg)\n5. **Tương ớt chinsu** — N/A\n   - Điểm sức khỏe (cá nhân hoá): **5.0 / 8.0** — Phù hợp\n   - Nutri-Score (tham khảo): C (điểm 3)\n   - Dinh dưỡng/100g: đường 0.0 g; natri 0 mg; bão hoà 0.0 g; protein 0.7 g; 56.0 kcal\n   - Lý do: Đường thấp (≤5g/100g), Natri thấp (≤120mg/100g)\n   - Có thể tìm tại (Hà Nội): —\n   \n   ![](https://images.openfoodfacts.org/images/products/893/613/616/1143/front_fr.3.400.jpg)\n\n- Nhập “Bổ sung sản phẩm thay thế” để xem thêm 5 lựa chọn tiếp theo.",
+      "ts": "2026-03-01T09:22:15.445471"
+    },
+    {
+      "role": "user",
+      "text": "Sản phẩm này có phù hợp với tình trạng sức khỏe của tôi không?",
+      "ts": "2026-03-01T09:23:04.822483"
+    },
+    {
+      "role": "assistant",
+      "text": "**Trả lời nhanh**: Sản phẩm này **Không phù hợp** với bạn do chứa các thành phần gây dị ứng (lactose, protein sữa), có chất béo chuyển hóa (trans fat), và lượng đường cao.\n\n- - -\n\n**Đánh giá tổng quan sản phẩm này**\n\nSản phẩm này được đánh giá là **Tránh** sử dụng.\n\nCó nhiều lý do chính:\n- **Dị ứng**: Sản phẩm chứa lactose và protein sữa, là các chất gây dị ứng đã được ghi nhận trong hồ sơ của bạn (Lactose, Phô mai).\n- **Chất béo chuyển hóa (Trans fat)**: Sản phẩm chứa trans fat, rất bất lợi cho tình trạng rối loạn mỡ máu của bạn.\n- **Đường**: Lượng đường trong một khẩu phần (12.0 g) đạt ngưỡng cao, không phù hợp cho mục tiêu giảm cân, cải thiện bệnh gan và viêm họng.\n- **Protein**: Lượng protein thấp (2.0 g/khẩu phần) không hỗ trợ mục tiêu tăng cơ bắp và giảm cân.\n- **Phụ gia**: Sản phẩm chứa nhiều loại phụ gia thực phẩm, có thể không tốt cho Hội chứng ruột kích thích (IBS) của bạn.\n\n- - -\n\n**Chi tiết về các chỉ số dinh dưỡng**\n\nDưới đây là đánh giá chi tiết theo khẩu phần (36.3 g):\n\n-   **Năng lượng (Kcal)**: 160.0 kcal. Mức này có thể hơi cao cho một món ăn vặt nếu bạn đang trong quá trình giảm cân.\n-   **Đường (Sugars)**: 12.0 g. Lượng đường này đạt ngưỡng cao (≥ 12.0 g/khẩu phần) theo khuyến nghị và không phù hợp với mục tiêu giảm cân, cải thiện bệnh gan và viêm họng của bạn.\n-   **Natri (Sodium)**: 110.0 mg. Lượng natri này ở mức thấp (≤ 200 mg/khẩu phần), khá tốt cho người có huyết áp cao.\n-   **Chất béo bão hòa (Satfat)**: Không có thông tin trong nhãn.\n-   **Chất béo chuyển hóa (Trans fat)**: Có chứa trans fat. Đây là một điểm cảnh báo nghiêm trọng, đặc biệt với tình trạng rối loạn mỡ máu của bạn.\n-   **Protein**: 2.0 g. Lượng protein này rất thấp (≤ 10.0 g/khẩu phần), không hiệu quả cho mục tiêu tăng cơ bắp và duy trì cảm giác no để giảm cân.\n-   **Chất xơ (Fiber)**: Không có thông tin trong nhãn.\n-   **Phụ gia**: Sản phẩm chứa nhiều chất phụ gia như chất nhũ hóa (471, 492, 322(i), 476), chất tạo xốp (500(ii), 503(ii)), chất ổn định (1442, 415), chất điều chỉnh độ acid (341(i)). Số lượng phụ gia này cao hơn mức khuyến nghị (≤ 2 phụ gia), có thể không tốt cho Hội chứng ruột kích thích (IBS) của bạn.\n\n- - -\n\n**Cảnh báo dị ứng và tình trạng sức khỏe**\n\n-   **Dị ứng Lactose và Phô mai**: Sản phẩm chứa \"Sữa bột nguyên kem\" và \"Protein sữa\" có thể gây phản ứng dị ứng hoặc khó chịu do lactose.\n-   **Rối loạn mỡ máu**: Sự hiện diện của chất béo chuyển hóa (trans fat) là cực kỳ bất lợi và cần tránh tuyệt đối.\n-   **Huyết áp cao**: Lượng natri thấp là một điểm cộng, nhưng các yếu tố khác khiến sản phẩm không phù hợp.\n-   **Hội chứng ruột kích thích (IBS)**: Nhiều chất phụ gia có thể kích thích đường ruột.\n-   **Bệnh gan và Viêm họng**: Lượng đường cao không tốt cho cả hai tình trạng này.\n-   **Mục tiêu Giảm cân & Tăng cơ bắp**: Lượng đường cao và protein thấp không hỗ trợ các mục tiêu này.\n\n- - -\n\n**Tiêu chí chọn sản phẩm tốt hơn**\n\nĐể hỗ trợ các mục tiêu sức khỏe và tình trạng của bạn, khi chọn sản phẩm tương tự, bạn nên ưu tiên những lựa chọn đáp ứng các tiêu chí sau:\n\n-   **Đường**: ≤ 5 g/khẩu phần.\n-   **Natri**: ≤ 200 mg/khẩu phần.\n-   **Chất béo bão hòa**: ≤ 2–3 g/khẩu phần (nếu có thông tin).\n-   **Chất béo chuyển hóa (Trans fat)**: Không có.\n-   **Protein**: ≥ 10 g/khẩu phần.\n-   **Chất xơ**: ≥ 3–5 g/khẩu phần.\n-   **Phụ gia**: Tối thiểu hoặc ≤ 2 loại.\n-   **Dị ứng**: Hoàn toàn không chứa đậu phộng, lactose, tôm cua, phô mai/sữa.",
+      "ts": "2026-03-01T09:23:19.807170"
+    }
+  ]
+}

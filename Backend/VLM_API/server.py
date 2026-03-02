@@ -63,8 +63,8 @@ if not API_KEY:
 
 # ==== Gemini config ====
 genai.configure(api_key=API_KEY)
-VLM_MODEL = genai.GenerativeModel("gemini-1.5-flash")   # đọc nhãn từ ảnh
-LLM_MODEL = genai.GenerativeModel("gemini-1.5-flash")   # tư vấn/llm tổng quát
+VLM_MODEL = genai.GenerativeModel("gemini-2.5-flash")   # đọc nhãn từ ảnh
+LLM_MODEL = genai.GenerativeModel("gemini-2.5-flash")   # tư vấn/llm tổng quát
 
 app = Flask(__name__)
 

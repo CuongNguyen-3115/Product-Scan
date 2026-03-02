@@ -1,6 +1,6 @@
 {
   "expo": {
-    "extra": { "API_BASE": "http://192.168.1.13:8888" },
+    "extra": { "API_BASE": "http://127.0.0.1:8888" },
     "name": "my-expo-app",
     "slug": "my-expo-app",
     "version": "1.0.0",

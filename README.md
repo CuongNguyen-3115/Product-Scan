@@ -84,6 +84,6 @@ npx expo start
 
 ## BẢN QUYỀN & MIỄN TRỪ TRÁCH NHIỆM
 
-Dữ liệu: Dự án sử dụng dữ liệu mở từ cộng đồng [OpenFoodFacts](https://www.google.com/url?sa=E&q=https%3A%2F%2Fworld.openfoodfacts.org%2F).
+**Dữ liệu**: Dự án sử dụng dữ liệu mở từ cộng đồng [OpenFoodFacts](https://www.google.com/url?sa=E&q=https%3A%2F%2Fworld.openfoodfacts.org%2F).
 
-Y tế: Các tư vấn từ AI chỉ mang tính chất tham khảo dinh dưỡng dựa trên dữ liệu hình ảnh thu thập được. Kết quả này không thay thế hoàn toàn các chỉ định y khoa hoặc chẩn đoán từ bác sĩ chuyên khoa.
+**Y tế**: Các tư vấn từ AI chỉ mang tính chất tham khảo dinh dưỡng dựa trên dữ liệu hình ảnh thu thập được. Kết quả này không thay thế hoàn toàn các chỉ định y khoa hoặc chẩn đoán từ bác sĩ chuyên khoa.

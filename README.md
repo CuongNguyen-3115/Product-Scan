@@ -1,7 +1,7 @@
-# HEALTHSCAN PRO: AI-POWERED SMART HEALTH ASSISTANT
+# Product Scan: AI-POWERED SMART HEALTH ASSISTANT
 
 ## PROJECT OVERVIEW
-**HealthScan Pro** là một hệ thống hỗ trợ quản lý dinh dưỡng cá nhân hóa, kết hợp sức mạnh của mô hình đa phương thức **Vision Language Model (Google Gemini Flash)** và cơ sở dữ liệu thực phẩm mã nguồn mở **OpenFoodFacts**. Dự án được phát triển nhằm giải quyết thách thức trong việc đọc hiểu các nhãn thành phần phức tạp, giúp người dùng đưa ra quyết định tiêu dùng thông minh dựa trên chính hồ sơ bệnh lý, dị ứng và mục tiêu sức khỏe cá nhân.
+**Product Scan** là một hệ thống hỗ trợ quản lý dinh dưỡng cá nhân hóa, kết hợp sức mạnh của mô hình đa phương thức **Vision Language Model (Google Gemini Flash)** và cơ sở dữ liệu thực phẩm mã nguồn mở **OpenFoodFacts**. Dự án được phát triển nhằm giải quyết thách thức trong việc đọc hiểu các nhãn thành phần phức tạp, giúp người dùng đưa ra quyết định tiêu dùng thông minh dựa trên chính hồ sơ bệnh lý, dị ứng và mục tiêu sức khỏe cá nhân.
 
 ## KEY FEATURES
 - **Personalized Health Profiling:** Thiết lập hồ sơ sinh học chi tiết bao gồm chỉ số BMI, tình trạng bệnh lý (tiểu đường, huyết áp), và các tác nhân gây dị ứng.

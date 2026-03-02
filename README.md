@@ -35,7 +35,7 @@ Người dùng cung cấp các thông số nền tảng để AI làm căn cứ 
 | Khai báo thông tin cơ bản | Lựa chọn bệnh lý & Dị ứng | Tổng quan hồ sơ |
 | :---: | :---: | :---: |
 | <img src="Assets/image2.png" width="250" /> | <img src="Assets/image3.png" width="250" /> | <img src="Assets/image6.png" width="250" /> |
-| *Minh họa: Hình 1, 2, 4* | *Minh họa: Hình 3, 5* | *Minh họa: Hình 6* |
+| *Minh họa* | *Minh họa* | *Minh họa* |
 
 ### Giai đoạn 2: Quét nhãn & Trích xuất Dữ liệu
 Sử dụng Camera để quét nhãn thành phần thực phẩm. AI sẽ thực hiện OCR và phân loại dữ liệu dinh dưỡng.
@@ -45,7 +45,7 @@ Sử dụng Camera để quét nhãn thành phần thực phẩm. AI sẽ thực
 | Chụp ảnh sản phẩm | Kết quả trích xuất ban đầu | Phân tích thành phần chi tiết |
 | :---: | :---: | :---: |
 | <img src="Assets/image7.png" width="250" /> | <img src="Assets/image8.png" width="250" /> | <img src="Assets/image9.png" width="250" /> |
-| *Minh họa: Hình 7* | *Minh họa: Hình 8* | *Minh họa: Hình 9* |
+| *Minh họa* | *Minh họa* | *Minh họa* |
 
 ### Giai đoạn 3: Tư vấn chuyên sâu với Trợ lý AI
 Chatbot Gemini Flash đóng vai trò chuyên gia dinh dưỡng ảo, giải đáp các thắc mắc phức tạp.
@@ -56,7 +56,7 @@ Chatbot Gemini Flash đóng vai trò chuyên gia dinh dưỡng ảo, giải đá
 | Giao diện Chatbot AI | Giải thích điểm Health Score | Phân tích rủi ro sức khỏe |
 | :---: | :---: | :---: |
 | <img src="Assets/image10.png" width="250" /> | <img src="Assets/image12.png" width="250" /> | <img src="Assets/image15.png" width="250" /> |
-| *Minh họa: Hình 10, 11* | *Minh họa: Hình 12, 13* | *Minh họa: Hình 14, 15* |
+| *Minh họa* | *Minh họa* | *Minh họa* |
 
 ---
 
